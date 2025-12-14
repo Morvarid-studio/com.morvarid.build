@@ -1,6 +1,6 @@
 {
   "name": "com.morvarid.build",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Morvardi buld",
   "description": "build for myket and bazzar with tapsell",
   "unity": "2021.3",
