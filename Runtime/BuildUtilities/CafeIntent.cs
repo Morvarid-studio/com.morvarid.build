@@ -1,8 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
 using Common;
-using Zenject;
-
 public class CafeIntent : MonoBehaviour
 {
     public BuildTypeSO _buildTypeSo;
