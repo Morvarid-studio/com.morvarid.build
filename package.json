@@ -7,8 +7,5 @@
   "author": {
     "name": "morvarid_studio",
     "url": "https://github.com/Morvarid-studio"
-  },
-  "dependencies": {
-    "com.google.external-dependency-manager": "1.2.177"
   }
 }
