@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class GradleManager
 {
-    private const string TEMPLATE_PATH = "Packages/com.morvarid.build/GradleTemplates";
+    private const string TEMPLATE_PATH = "Packages/com.morvarid.build/Runtime/GradleTemplates";
     private const string UNITY_GRADLE_PATH = "Assets/Plugins/Android";
     private const string UNITY_EDITOR_PATH = "Assets/Plugins/Android/Editor";
-
+    
     public static void ApplyGradleTemplates(BuildTypeSO.BuildType marketFolder)
     {
         string sourcePath = Path.Combine(TEMPLATE_PATH, marketFolder.ToString());
