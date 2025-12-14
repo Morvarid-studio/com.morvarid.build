@@ -5,7 +5,7 @@ using Zenject;
 
 public class CafeIntent : MonoBehaviour
 {
-    [Inject] private BuildTypeSO _buildTypeSo;
+    public BuildTypeSO _buildTypeSo;
     // public enum Store { Cafebazzar, Myket }
 
     //[SerializeField] Store store;
